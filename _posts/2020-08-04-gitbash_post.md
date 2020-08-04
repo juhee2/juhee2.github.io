@@ -1,12 +1,8 @@
 ---
-title: "github.io 블로그 시작하기(bash로 작성)
-excerpt: "Github Blog 서비스인 juhee2.github.io 블로그 시작합니다~"
-
-categories:
-  - Sample
- tags:
-  - Blog
-
+layout: post
+title: post-sample
+date: 2020-01-02 19:20:23 +0900
+category: jeklly
 ---
 
 git bash로 작성한 게시물
