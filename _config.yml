@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Chirpy                          # the main title
+title: JuHeHee                          # the main title
 
 tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
@@ -25,7 +25,7 @@ author: your_full_name                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: juhee2             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
