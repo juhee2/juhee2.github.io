@@ -10,7 +10,7 @@
 
 title: JuHeHee                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+# tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -22,7 +22,7 @@ url: 'protocol://domain'
 
 author: your_full_name                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/photo.jpg   # support internet resources
 
 github:
   username: juhee2             # change to your github username
