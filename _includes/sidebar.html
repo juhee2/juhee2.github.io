@@ -68,7 +68,7 @@
     {% capture url %}
       {%- if entry.type == 'github' -%}
         https://github.com/{{ site.github.username }}
-      {%- elsif entry.type == 'twitter' -%}
+<!--      {%- elsif entry.type == 'twitter' -%}
         https://twitter.com/{{ site.twitter.username }}
       {%- elsif entry.type == 'email' -%}
         {% assign email = site.social.email | split: '@' %}
@@ -77,6 +77,7 @@
         {{ "/feed.xml" | relative_url }}
       {%- else -%}
         {{ entry.url }}
+-->
       {%- endif -%}
     {% endcapture %}
 
