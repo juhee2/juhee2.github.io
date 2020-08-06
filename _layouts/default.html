@@ -23,10 +23,16 @@ layout: compress
 
 <html lang="{{ lang }}" {{ prefer_mode }} >
   {% include head.html %}
-
+<head>
+<style type="text/css">
+  .sidebar{
+    background-color: #070719;
+  }
+</style>
+</head>
   <body data-spy="scroll" data-target="#toc">
 
-    <div id="sidebar" class="d-flex flex-column" style="background-color:#070719;">
+    <div id="sidebar" class="d-flex flex-column">
       {% include sidebar.html %}
     </div>
 
